@@ -122,7 +122,7 @@ function HomeScreen({ go }) {
       <Card style={{ display: "flex", alignItems: "center", gap: 12 }}>
         <div style={{ width: 40, height: 40, borderRadius: "50%", background: SAND, display: "flex", alignItems: "center", justifyContent: "center", fontFamily: "'Fraunces', serif", fontWeight: 600, color: MOSS_D, fontSize: 14 }}>SK</div>
         <div style={{ flex: 1 }}>
-          <p style={{ margin: 0, fontSize: 14, fontWeight: 500, color: INK }}>Sunita Kumari</p>
+          <p style={{ margin: 0, fontSize: 14, fontWeight: 500, color: INK }}> ASHA WORKER USER 1 </p>
           <p style={{ margin: "2px 0 0", fontSize: 12, color: "rgba(31,42,36,0.55)", display: "flex", alignItems: "center", gap: 4 }}><MapPin size={11} /> 1.2 km away</p>
         </div>
         <button aria-label="Call ASHA worker" style={{ background: SAND, border: "none", borderRadius: "50%", width: 34, height: 34, display: "flex", alignItems: "center", justifyContent: "center", cursor: "pointer", color: MOSS_D }}>
