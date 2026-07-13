@@ -89,7 +89,7 @@ function HomeScreen({ go }) {
       />
       <div style={{ marginTop: -8, marginBottom: 18 }}>
         <p style={{ fontSize: 12, color: "rgba(31,42,36,0.6)", margin: 0, fontFamily: "'Fraunces', serif", fontStyle: "italic" }}>Namaste,</p>
-        <h1 style={{ fontFamily: "'Fraunces', serif", fontSize: 28, fontWeight: 600, margin: "2px 0 0", color: INK }}>Priya Devi</h1>
+        <h1 style={{ fontFamily: "'Fraunces', serif", fontSize: 28, fontWeight: 600, margin: "2px 0 0", color: INK }}>USER</h1>
         <p style={{ fontSize: 13, color: "rgba(31,42,36,0.55)", margin: "4px 0 0" }}>Week 24 · Rampur PHC</p>
       </div>
 
